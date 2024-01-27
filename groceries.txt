@@ -1,0 +1,5 @@
+suger,12.0
+rice,30
+7up,3
+bread,3
+cheese,9.0

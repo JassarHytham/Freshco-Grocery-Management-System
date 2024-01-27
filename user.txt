@@ -1,0 +1,4 @@
+jassar,1212,male,25/8/2002,jassar.official@gmail.com,+60197665523,East Lake
+sara,123,women,16/6/2004,sara@gmail.com,+601755223,one ssouth
+bashar,1212,male,6/5/2005,bashar@gmail.com,597072828,jeddah
+dana,123,female,11/12/1013,dana@gmail.com,+966530230533,Jeddah
